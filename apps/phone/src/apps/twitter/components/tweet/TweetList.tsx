@@ -70,7 +70,7 @@ export function TweetList({ tweets }: { tweets: FormattedTweet[] }) {
   };
 
   return (
-    <ul className='h-full divide-y divide-blue-200'>
+    <ul className='h-full divide-y divide-amber-200'>
       <Virtuoso
         style={{ height: '100%' }}
         data={tweetsData}

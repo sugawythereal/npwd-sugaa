@@ -6,7 +6,7 @@
     "palette": {
       "mode": "light",
       "primary": {
-        "main": "#a6d4fa"
+        "main": "##F9A825"
       },
       "text": {
         "secondary": "rgba(0, 0, 0, 0.9)",
@@ -30,7 +30,7 @@
     "palette": {
       "mode": "dark",
       "primary": {
-        "main": "#a6d4fa"
+        "main": "#F9A825"
       },
       "text": {
         "secondary": "rgba(255, 255, 255, 0.9)",

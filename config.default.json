@@ -88,7 +88,7 @@
     "persistListings": false
   },
   "browser": {
-    "homepageUrl": "https://docs.projecterror.dev"
+    "homepageUrl": "https://play2048.co/"
   },
   "debug": {
     "level": "error",

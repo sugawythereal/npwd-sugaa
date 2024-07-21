@@ -13,7 +13,7 @@
     "useResourceIntegration": false,
     "toggleKey": "f1",
     "toggleCommand": "phone",
-    "defaultLanguage": "en",
+    "defaultLanguage": "pt",
     "showId": false,
     "phoneNumberFormat": "/(\\d{3})(\\d{3})(\\d{4})/"
   },
@@ -89,7 +89,7 @@
     "persistListings": false
   },
   "browser": {
-    "homepageUrl": "https://docs.fivemanage.com"
+    "homepageUrl": "https://play2048.co/"
   },
   "debug": {
     "level": "error",

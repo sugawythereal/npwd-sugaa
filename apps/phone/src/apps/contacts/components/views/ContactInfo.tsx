@@ -200,7 +200,7 @@ const ContactsInfoPage: React.FC = () => {
           <NPWDInput
             value={name}
             onChange={handleDisplayChange}
-            className="focus:ring-2 focus:ring-blue-500"
+            className="focus:ring-2 focus:ring-amber-500"
           />
         </div>
 
@@ -209,7 +209,7 @@ const ContactsInfoPage: React.FC = () => {
             <ContactAction
               onClick={startCall}
               Icon={Phone}
-              className="border-blue-500 bg-blue-500 text-white hover:bg-blue-600 dark:bg-blue-500 dark:text-white hover:dark:bg-blue-600"
+              className="border-amber-500 bg-amber-500 text-white hover:bg-amber-600 dark:bg-amber-500 dark:text-white hover:dark:bg-amber-600"
             />
             <ContactAction onClick={handleMessage} Icon={MessageCircle} />
 
@@ -232,7 +232,7 @@ const ContactsInfoPage: React.FC = () => {
             <NPWDInput
               value={number}
               onChange={handleNumberChange}
-              className="focus:ring-2 focus:ring-blue-500"
+              className="focus:ring-2 focus:ring-amber-500"
             />
           </div>
           <div className="space-y-2">
@@ -240,7 +240,7 @@ const ContactsInfoPage: React.FC = () => {
             <NPWDInput
               value={avatar}
               onChange={handleAvatarChange}
-              className="outline-none focus:ring-2 focus:ring-blue-500"
+              className="outline-none focus:ring-2 focus:ring-amber-500"
             />
           </div>
         </div>

@@ -219,7 +219,7 @@ const ContactItem = ({ number, avatar, id, display }: ContactItemProps) => {
             </button>
             <button
               onClick={handleMessage}
-              className="rounded-full bg-blue-100 p-3 text-blue-400 hover:bg-blue-200 dark:bg-blue-900/30 dark:hover:bg-neutral-700"
+              className="rounded-full bg-amber-100 p-3 text-amber-400 hover:bg-amber-200 dark:bg-amber-900/30 dark:hover:bg-neutral-700"
             >
               <MessageSquare size={20} />
             </button>

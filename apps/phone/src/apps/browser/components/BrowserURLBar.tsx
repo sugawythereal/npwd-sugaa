@@ -20,7 +20,7 @@ const StyledBox = styled(Box)(({ theme }) => ({
     paddingRight: 10,
     paddingLeft: 10,
     marginLeft: 5,
-    borderColor: '#787878FF',
+    borderColor: '#FF8F00',
     color: theme.palette.text.disabled,
     transition: 'color 0.1s ease',
   },

@@ -7,7 +7,7 @@ const useStyles = makeStyles((theme: Theme) => ({
     flexGrow: 1,
   },
   photo: {
-    border: '1px inset #fff',
+    border: '1px inset #FF8F00',
     height: 129,
     width: 129,
     maxWidth: 150,

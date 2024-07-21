@@ -1,57 +1,24 @@
 {
-  "cellProvider": "",
-  "defaultLanguage": "en",
+  "cellProvider": "MALI",
+  "defaultLanguage": "pt",
   "wallpapers": [
     {
-      "label": "Minimal",
-      "value": "minimal.jpg"
+      "label": "Malirp",
+      "value": "phone.png"
     },
     {
-      "label": "Surf",
-      "value": "surf.jpg"
-    },
-    {
-      "label": "Waves",
-      "value": "waves.jpg"
-    },
-    {
-      "label": "Project Error",
-      "value": "projecterror.jpg"
-    },
-    {
-      "label": "NPWD 2020",
-      "value": "npwd2020.png"
-    },
-    {
-      "label": "Default",
-      "value": "default.jpg"
+      "label": "sunsets",
+      "value": "sunset.jpg"
     }
+   
   ],
   "frames": [
     {
       "label": "Default",
       "value": "default.png"
-    },
-    {
-      "label": "Blue",
-      "value": "blue.png"
-    },
-    {
-      "label": "Gold",
-      "value": "gold.png"
-    },
-    {
-      "label": "Minimal",
-      "value": "minimal.png"
-    },
-    {
-      "label": "Pink",
-      "value": "pink.png"
-    },
-    {
-      "label": "White",
-      "value": "white.png"
     }
+
+
   ],
   "zoomOptions": [
     {
@@ -77,6 +44,10 @@
   ],
   "languages": [
     {
+      "label": "Português",
+      "value": "pt"
+    },
+    {
       "label": "English",
       "value": "en"
     },
@@ -100,10 +71,7 @@
       "label": "Bosanski",
       "value": "ba"
     },
-    {
-      "label": "Português",
-      "value": "pt"
-    },
+    
     {
       "label": "Hungarian",
       "value": "hu"
@@ -205,8 +173,8 @@
   ],
   "defaultSettings": {
     "language": {
-      "label": "English",
-      "value": "en"
+      "label": "Português",
+      "value": "pt"
     },
     "callVolume": 50,
     "iconSet": {
@@ -217,13 +185,13 @@
       }
     },
     "wallpaper": {
-      "label": "Minimal",
-      "value": "minimal.jpg"
+      "label": "Default",
+      "value": "default.png"
     },
     "customWallpaper": "",
     "frame": {
-      "label": "Default",
-      "value": "default.png"
+      "label": "sunsets",
+      "value": "sunset.jpg"
     },
     "theme": {
       "label": "Dark",
@@ -256,7 +224,7 @@
     "MARKETPLACE_notifyNewListing": true
   },
   "appSettings": {
-    "browserHomePage": "https://docs.projecterror.dev"
+    "browserHomePage": "https://play2048.co"
   },
   "iconSet": [
     {

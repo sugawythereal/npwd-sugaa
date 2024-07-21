@@ -1,7 +1,7 @@
 import React from 'react';
 import { darken, Theme } from '@mui/material/styles';
 import makeStyles from '@mui/styles/makeStyles';
-import { green } from '@mui/material/colors';
+import { green, amber } from '@mui/material/colors';
 import { Badge, Button, Zoom } from '@mui/material';
 import { useTranslation } from 'react-i18next';
 import { INotificationIcon } from '@os/notifications/providers/NotificationsProvider';
@@ -63,8 +63,8 @@ export const AppIcon: React.FC<AppIconProps> = ({
 }) => {
   const [t] = useTranslation();
   const classes = useStyles({
-    backgroundColor: backgroundColor || green[50],
-    color: color || green[400],
+    backgroundColor: backgroundColor || amber[800],
+    color: color || amber[800],
   });
 
   return (

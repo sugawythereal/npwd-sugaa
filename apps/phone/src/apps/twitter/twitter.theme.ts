@@ -1,14 +1,14 @@
 import { common } from '@mui/material/colors';
 
-export const TWITTER_APP_PRIMARY_COLOR = '#0ea5e9';
+export const TWITTER_APP_PRIMARY_COLOR = '#FF8F00';
 export const TWITTER_APP_TEXT_COLOR = common.white;
 
 const theme = {
   palette: {
     primary: {
       main: TWITTER_APP_PRIMARY_COLOR,
-      dark: '#0ea5e9',
-      light: '#0ea5e9',
+      dark: '#FF8F00',
+      light: '#FF8F00',
       contrastText: TWITTER_APP_TEXT_COLOR,
     },
     secondary: {

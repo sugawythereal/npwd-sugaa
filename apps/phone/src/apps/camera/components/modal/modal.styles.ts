@@ -1,4 +1,5 @@
 import { Theme } from '@mui/material/styles';
+import { grey, common, green, amber } from '@mui/material/colors';
 
 import makeStyles from '@mui/styles/makeStyles';
 
@@ -46,7 +47,7 @@ const useStyles = makeStyles((theme: Theme) => ({
     textAlign: 'center',
   },
   button: {
-    color: theme.palette.text.primary,
+    color: amber[800],
     '&:hover': {
       backgroundColor: theme.palette.action.hover,
     }
